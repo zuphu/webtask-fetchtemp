@@ -22,4 +22,4 @@ units=[metric|imperial|kelvin]
 
 Examples:
 - https://webtask.it.auth0.com/api/run/wt-anthony_guev-gmail_com-0/webtask-fetchtemp?webtask_no_cache=1&city=ottawa&units=metric
-- `curl "https://webtask.it.auth0.com/api/run/wt-anthony_guev-gmail_com-0/webtask-fetchtemp?webtask_no_cache=1&city=colorado&units=imperial"`
+- `curl "https://webtask.it.auth0.com/api/run/wt-anthony_guev-gmail_com-0/webtask-fetchtemp?webtask_no_cache=1&city=denver&units=imperial"`
